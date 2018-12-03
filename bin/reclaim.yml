@@ -1,0 +1,75 @@
+Partner:
+    name: '&dPartner'
+    commands:
+    - bc &4&l{PLAYER} &7claimed their &dPartner Rank &7perks by using &a&l/reclaim.
+    - lives set {PLAYER} 60
+    - crate givekey {PLAYER} Ruby 30
+    - crate givekey {PLAYER} Inspect 5
+Amethyst:
+    name: '&4&lAmethyst'
+    commands:
+    - bc &4&l{PLAYER} &7claimed their &4&lAmethyst Rank &7perks by using &a&l/reclaim.
+    - lives set {PLAYER} 60
+    - crate givekey {PLAYER} Silver 20
+    - crate givekey {PLAYER} Aqua 15
+    - crate givekey {PLAYER} Ruby 8
+Titanium:
+    name: '&d&lTitanium'
+    commands:
+    - bc &4&l{PLAYER} &7has reclaim their rewards from their &d&lTitanium Rank&7.'
+    - lives set {PLAYER} 30
+    - crate givekey {PLAYER} Silver 14
+    - crate givekey {PLAYER} Aqua 10
+    - crate givekey {PLAYER} Ruby 6
+Sapphire:
+    name: '&b&lSapphire'
+    commands:
+    - bc &4&l{PLAYER} &7claimed their &b&lSapphire Rank &7perks by using &a&l/reclaim.
+    - lives set {PLAYER} 20
+    - crate givekey {PLAYER} Silver 10
+    - crate givekey {PLAYER} Aqua 6
+Ruby:
+    name: '&c&lRuby'
+    commands:
+    - bc &4&l{PLAYER} &7claimed their &c&lRuby Rank &7perks by using &a&l/reclaim.
+    - lives set {PLAYER} 12
+    - crate givekey {PLAYER} Silver 8
+    - crate givekey {PLAYER} Aqua 4
+Cobalt:
+    name: '&9&lCobalt'
+    commands:
+    - bc &4&l{PLAYER} &7claimed their &9&lCobalt Rank &7perks by using &a&l/reclaim.
+    - lives set {PLAYER} 8
+    - crate givekey {PLAYER} Silver 6
+    - crate givekey {PLAYER} Aqua 4
+Silver:
+    name: '&f&lSilver'
+    commands:
+    - bc &4&l{PLAYER} &7claimed their &f&lSilver Rank &7perks by using &a&l/reclaim.
+    - lives set {PLAYER} 6
+    - crate givekey {PLAYER} Silver 4
+    - crate givekey {PLAYER} Aqua 2
+Bronze:
+    name: '&6&lBronze'
+    commands:
+    - bc &4&l{PLAYER} &7claimed their &6&lBronze Rank &7perks by using &a&l/reclaim.
+    - lives set {PLAYER} 2
+    - crate givekey {PLAYER} Silver 2
+YouTube:
+    name: '&c&lYou&f&lTube'
+    commands:
+    - bc &4&l{PLAYER} &7claimed their &c&lYou&f&lTube Rank &7perks by using &a&l/reclaim.
+    - lives set {PLAYER} 20
+    - crate givekey {PLAYER} Silver 5
+    - crate givekey {PLAYER} Aqua 10
+    - crate givekey (PLAYER) Ruby 15
+Famous:
+    name: '&aFamous'
+    commands:
+    - bc &4&l{PLAYER} &7claimed their &aFamous Rank &7perks by using &a&l/reclaim.
+    - lives set {PLAYER} 40
+    - crate givekey {PLAYER} Aqua 10
+    - crate givekey (PLAYER) Ruby 15
+    - crate givekey (PLAYER) Inspect 3
+    
+    
